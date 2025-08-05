@@ -1,0 +1,41 @@
+{
+  "notifications": [
+    {
+      "sno": 1,
+      "type": "new_app",
+      "id": "app001",
+      "title": "Try Our Latest Game!",
+      "description": "Experience adventure and mystery in our brand-new release.",
+      "url": "https://playstore.com/app001",
+      "image": "https://yourcdn.com/images/app001.png"
+    },
+    {
+      "sno": 2,
+      "type": "youtube_video",
+      "id": "vid123",
+      "title": "DevLog #5 Is Live!",
+      "description": "Learn how the new UI system was designed.",
+      "url": "https://youtube.com/watch?v=abc123",
+      "image": "https://yourcdn.com/images/vid123.jpg"
+    },
+    {
+      "sno": 3,
+      "type": "link",
+      "id": "link001",
+      "title": "Join Our Discord",
+      "description": "Chat with other players and get sneak peeks.",
+      "url": "https://discord.gg/yourgame",
+      "image": "https://yourcdn.com/images/discord.png"
+    },
+    {
+      "sno": 4,
+      "type": "article",
+      "id": "article456",
+      "title": "Behind the Scenes of Level Design",
+      "description": "Discover how we balance gameplay and storytelling.",
+      "url": "https://medium.com/yourblog/article456",
+      "image": "https://yourcdn.com/images/article456.jpg"
+    }
+  ]
+}
+
